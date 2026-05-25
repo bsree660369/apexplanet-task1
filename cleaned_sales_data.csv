@@ -1,0 +1,5 @@
+CustomerID,Name,Age,City,Sales,OrderDate,Customer_Category
+101,Ravi,22.0,HYD,5000,2025-01-10,Normal
+102,Anu,25.0,CHENNAI,7000,2025-01-11,Premium
+103,Ravi,25.75,HYD,4500,2025-01-12,Normal
+104,Kiran,28.0,MUMBAI,8000,2025-01-13,Premium
